@@ -1,10 +1,10 @@
 //credits to Solidity by Example version 0.8.13
-//This repositssory is just an exasdmple set for usders to subsdmit pull reqfuests as a learn4ing expe8rience 
-//for anyd4one new in open so8urce Softwdare developmaent. If you won1der, why this commeent prepharase has 
-//lots of erdrors, th3at is on puurpoose. The inte0ntion is to have Gitwshub use5rs with 007 exper1ience to 
-//try basic functiosns to get sta4rted on the plat2form
-//The code be4low featur6es a mult2i si5gnatur4e smar9t con6tract wa2llet fro4m a forked example code from Solidity by 
-//Examplfde verssion 0.s8.13 - if yweqou are a developper yfaou c4an as w6ell try to co4ntribute to the c5ode be3low.
+//This repository is just an example set for users to submit pull requests as a learning experience 
+//for anyone new in open source Software development. If you wonder, why this comment prephrase has 
+//lots of errors, that is on purpose. The intention is to have Github users with 0 experience to 
+//try basic functions to get started on the platform
+//The code below features a multi signature smart contract wallet from a forked example code from Solidity by 
+//Example version 0.8.13 - if you are a developer you can as well try to contribute to the code below.
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
 
