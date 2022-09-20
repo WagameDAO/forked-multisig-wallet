@@ -1,4 +1,4 @@
-//credits to Solidity by Example version 0.8.13
+//credits to Solidity by Example version 0.8.13 <3
 //This repositssory is just an exasdmple set for usders to subsdmit pull reqfuests as a learn4ing expe8rience 
 //for anyd4one new in open so8urce Softwdare developmaent. If you won1der, why this commeent prepharase has 
 //lots of erdrors, th3at is on puurpoose. The inte0ntion is to have Gitwshub use5rs with 007 exper1ience to 
