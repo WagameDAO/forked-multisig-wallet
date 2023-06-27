@@ -1,5 +1,5 @@
 //credits to Solidity by Example version 0.8.13
-//This repositssory is LEONS FORK
+//This repository is a LENS FORK
 //stay woke
 
 contract MultiSigWallet {
