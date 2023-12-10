@@ -1,6 +1,7 @@
 //credits to Solidity by Example version 0.8.13
 //This repository is LENS FORK
 //stay woke
+//GM
 
 contract MultiSigWallet {
     event Deposit(address indexed sender, uint amount, uint balance);
